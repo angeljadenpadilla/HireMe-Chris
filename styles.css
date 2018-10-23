@@ -1,0 +1,26 @@
+li {
+    color:grey;
+}
+body {
+background-color:black;
+}
+h1{
+    color:#33B2FF ;
+}
+background {
+    color:black;
+}
+img {
+    width:200px;
+    border:dotted blue;
+}
+ h1 {
+   font-family: indie flower,cursive;
+   }
+li {  
+   font-family: lobster,cursive;
+   }
+p {
+    color:green;
+    font-family: indie flower,cursive;
+}
